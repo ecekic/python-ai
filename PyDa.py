@@ -1,7 +1,3 @@
-'''
-go to wolfram alpha api page
-copy this stuff
-'''
 import wolframalpha
 
 client = wolframalpha.Client("JJEL8R-WYHXEX2EQL")
@@ -10,8 +6,6 @@ import wikipedia
 
 '''
 want this to pop up on a window 
-so look up "python gui"
-pip install pysimplegui
 '''
 import PySimpleGUI as sg
 
